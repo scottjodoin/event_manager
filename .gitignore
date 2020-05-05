@@ -1,0 +1,7 @@
+event_attendees_full.csv
+event_attendees.csv
+Gemfile.lock
+.rspec
+.git/*
+.bundle/*
+bin/*
